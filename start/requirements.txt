@@ -6,3 +6,4 @@ telethon
 opentele
 loguru
 uuid
+configparser
