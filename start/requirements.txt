@@ -7,3 +7,4 @@ opentele
 loguru
 uuid
 configparser
+fake_useragent
